@@ -1,3 +1,11 @@
 p {
   color: blue;
 }
+div {
+  background-color: #3498DB;
+  border-radius: 5px;
+  height: 50px;
+  width: 100px;
+  border: solid #1B4F72;
+  text-align:center;
+}
