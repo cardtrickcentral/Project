@@ -7,4 +7,5 @@ div {
   text-align:center;
   margin: auto;
   font-family: Impact;
+  display: block;
 }
