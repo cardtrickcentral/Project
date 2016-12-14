@@ -5,4 +5,5 @@ div {
   width: 100px;
   border: solid #1B4F72;
   text-align:center;
+  margin: auto;
 }
